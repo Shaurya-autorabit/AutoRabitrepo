@@ -2,6 +2,10 @@
     <version>61.0</version>
     <types>
         <members>A0</members>
+        <members>A000</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>OuterClass</members>
         <name>ApexClass</name>
     </types>
 </Package>
