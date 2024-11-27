@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>61.0</version>
     <types>
+        <!-- Existing classes -->
         <members>A0</members>
         <members>A000</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>OuterClass</members>
+
+        <!-- Simulated invalid classes -->
+        <members>NonExistentClass</members> <!-- This class does not exist -->
+        <members>InvalidOuterClass.InnerClass</members> <!-- Invalid inner class reference -->
         <name>ApexClass</name>
+    </types>
+    <types>
+        <!-- Add invalid layout or field references -->
+        <members>Account-NonExistentLayout</members> <!-- Layout that doesn't exist -->
+        <name>Layout</name>
     </types>
 </Package>
