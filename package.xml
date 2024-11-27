@@ -22,7 +22,7 @@
         <name>Layout</name>
     </types>
     <types>
-        <!-- Invalid or deprecated profiles -->
+        <!-- Invalid or missing profiles -->
         <members>NonExistentProfile</members> <!-- This profile does not exist -->
         <members>InvalidProfile</members> <!-- Reference an invalid profile -->
         <name>Profile</name>
@@ -36,6 +36,17 @@
     <types>
         <!-- Invalid permissions -->
         <members>NonExistentPermissionSet</members> <!-- Invalid permission set -->
+        <members>InvalidPermissionSet</members> <!-- Another invalid permission set -->
         <name>PermissionSet</name>
+    </types>
+    <types>
+        <!-- Invalid workflows -->
+        <members>InvalidWorkflow</members> <!-- Workflow rule that does not exist -->
+        <name>Workflow</name>
+    </types>
+    <types>
+        <!-- Invalid triggers -->
+        <members>InvalidTrigger</members> <!-- Trigger that does not exist -->
+        <name>ApexTrigger</name>
     </types>
 </Package>
