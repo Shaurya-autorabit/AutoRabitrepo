@@ -12,11 +12,30 @@
         <!-- Simulated invalid classes -->
         <members>NonExistentClass</members> <!-- This class does not exist -->
         <members>InvalidOuterClass.InnerClass</members> <!-- Invalid inner class reference -->
+        <members>DeprecatedClass</members> <!-- Reference a known deprecated class -->
         <name>ApexClass</name>
     </types>
     <types>
-        <!-- Add invalid layout or field references -->
+        <!-- Invalid or missing layouts -->
         <members>Account-NonExistentLayout</members> <!-- Layout that doesn't exist -->
+        <members>Opportunity-InvalidLayout</members> <!-- Referencing a layout incorrectly -->
         <name>Layout</name>
+    </types>
+    <types>
+        <!-- Invalid or deprecated profiles -->
+        <members>NonExistentProfile</members> <!-- This profile does not exist -->
+        <members>InvalidProfile</members> <!-- Reference an invalid profile -->
+        <name>Profile</name>
+    </types>
+    <types>
+        <!-- Invalid or missing objects -->
+        <members>NonExistentCustomObject__c</members> <!-- This custom object does not exist -->
+        <members>Account.NonExistentField__c</members> <!-- Referencing an invalid field -->
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <!-- Invalid permissions -->
+        <members>NonExistentPermissionSet</members> <!-- Invalid permission set -->
+        <name>PermissionSet</name>
     </types>
 </Package>
