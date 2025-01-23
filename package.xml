@@ -2,10 +2,226 @@
     <version>61.0</version>
     <types>
         <members>A0</members>
+        <members>A00</members>
         <members>A000</members>
+        <members>A00000AYaNZY</members>
+        <members>A00000BHhYOBPn</members>
+        <members>A00000CFvTUn</members>
+        <members>AccountTriggerHandler</members>
+        <members>AutocreatedTokenExchHandler1731318208120</members>
+        <members>CRMforNonProfit__AccountCampaignAgregationBatch</members>
+        <members>CRMforNonProfit__AccountTransactionAgregationBatch</members>
+        <members>CRMforNonProfit__BankLoader</members>
+        <members>CRMforNonProfit__BankLoaderCsas</members>
+        <members>CRMforNonProfit__BankLoaderCsasQueueable</members>
+        <members>CRMforNonProfit__BankLoaderCsasQueueableTest</members>
+        <members>CRMforNonProfit__BankLoaderCsasTest</members>
+        <members>CRMforNonProfit__BankLoaderMoneta</members>
+        <members>CRMforNonProfit__BankLoaderMonetaGet</members>
+        <members>CRMforNonProfit__BankLoaderMonetaInit</members>
+        <members>CRMforNonProfit__BankLoaderMonetaTest</members>
+        <members>CRMforNonProfit__BankLoaderTest</members>
+        <members>CRMforNonProfit__CampaignMemberStatusUpdateBatch</members>
+        <members>CRMforNonProfit__CampaignMemberStatusUpdateBatchTest</members>
+        <members>CRMforNonProfit__CampaignTriggerHelper</members>
+        <members>CRMforNonProfit__ContactCampaignAgregationBatch</members>
+        <members>CRMforNonProfit__ContactTriggerHelper</members>
+        <members>CRMforNonProfit__ContentVersionTriggerHelper</members>
+        <members>CRMforNonProfit__ContentVersionTriggerHelper_Test</members>
+        <members>CRMforNonProfit__CurrencyHandler</members>
+        <members>CRMforNonProfit__CurrencyHandlerTest</members>
+        <members>CRMforNonProfit__CustomException</members>
+        <members>CRMforNonProfit__DarujmeSkService</members>
+        <members>CRMforNonProfit__DarujmeSkServiceTest</members>
+        <members>CRMforNonProfit__DarujmeSk_DailySyncJob</members>
+        <members>CRMforNonProfit__DarujmeSk_DailySyncJobTest</members>
+        <members>CRMforNonProfit__Darujme_DailySyncJobComplete</members>
+        <members>CRMforNonProfit__Darujme_DailySyncJobCompleteCallout</members>
+        <members>CRMforNonProfit__Darujme_DailySyncJobCompleteTest</members>
+        <members>CRMforNonProfit__Darujme_DataProcessor</members>
+        <members>CRMforNonProfit__Darujme_PledgeService</members>
+        <members>CRMforNonProfit__Darujme_PledgeServiceTest</members>
+        <members>CRMforNonProfit__DonorCertificatePDFGenerator</members>
+        <members>CRMforNonProfit__DonorCertificates</members>
+        <members>CRMforNonProfit__DonorCertificatesJobPreparationBatch</members>
+        <members>CRMforNonProfit__DonorCertificatesMailingBatch</members>
+        <members>CRMforNonProfit__DonorCertificatesScheduledDispatcher</members>
+        <members>CRMforNonProfit__DonorCertificatesScheduler</members>
+        <members>CRMforNonProfit__DonorCertificates_Test</members>
+        <members>CRMforNonProfit__EmailLimitsMock</members>
+        <members>CRMforNonProfit__EmailProcessor</members>
+        <members>CRMforNonProfit__ErrorHandler</members>
+        <members>CRMforNonProfit__ErrorHandlerTest</members>
+        <members>CRMforNonProfit__ExampleGlobal</members>
+        <members>CRMforNonProfit__ExamplePublic</members>
+        <members>CRMforNonProfit__FioAccountTransactionsDeleteBatch</members>
+        <members>CRMforNonProfit__FioAccountsSyncScheduler</members>
+        <members>CRMforNonProfit__FioAccountsSyncSchedulerTest</members>
+        <members>CRMforNonProfit__FioBankAccountsController</members>
+        <members>CRMforNonProfit__FioBankAccountsControllerTest</members>
+        <members>CRMforNonProfit__FioConnector</members>
+        <members>CRMforNonProfit__FioConstants</members>
+        <members>CRMforNonProfit__FioTransactionsSyncQueueable</members>
+        <members>CRMforNonProfit__GeorgeIntegration</members>
+        <members>CRMforNonProfit__GeorgeIntegrationSchedulable</members>
+        <members>CRMforNonProfit__GeorgeIntegrationTest</members>
+        <members>CRMforNonProfit__GeorgeNotificationService</members>
+        <members>CRMforNonProfit__GeorgeNotificationServiceTest</members>
+        <members>CRMforNonProfit__GeorgeTransactionListWrapper</members>
+        <members>CRMforNonProfit__GoogleReCaptchaMockGenerator_Test</members>
+        <members>CRMforNonProfit__InboundEmailReprocess</members>
+        <members>CRMforNonProfit__InboundEmailReprocessTest</members>
+        <members>CRMforNonProfit__ListViewQueryMock</members>
+        <members>CRMforNonProfit__ListviewRest</members>
+        <members>CRMforNonProfit__ListviewWrapper</members>
+        <members>CRMforNonProfit__MailParser</members>
+        <members>CRMforNonProfit__MailParserCNB</members>
+        <members>CRMforNonProfit__MailParserCNBTest</members>
+        <members>CRMforNonProfit__MailParserCsob</members>
+        <members>CRMforNonProfit__MailParserCsobTest</members>
+        <members>CRMforNonProfit__MailParserDarujme</members>
+        <members>CRMforNonProfit__MailParserDarujmeSk</members>
+        <members>CRMforNonProfit__MailParserDarujmeSkTest</members>
+        <members>CRMforNonProfit__MailParserFio</members>
+        <members>CRMforNonProfit__MailParserKb</members>
+        <members>CRMforNonProfit__MailParserKbTest</members>
+        <members>CRMforNonProfit__MailParserPrimaBanka</members>
+        <members>CRMforNonProfit__MailParserPrimaBankaTest</members>
+        <members>CRMforNonProfit__MailParserRaiffeisenbank</members>
+        <members>CRMforNonProfit__MailParserTatrabanka</members>
+        <members>CRMforNonProfit__MailParserTatrabankaEmail</members>
+        <members>CRMforNonProfit__MailParserTatrabankaEmailTest</members>
+        <members>CRMforNonProfit__MailParserTatrabankaTest</members>
+        <members>CRMforNonProfit__MailParserUnicredit</members>
+        <members>CRMforNonProfit__MailParserUnicreditSK</members>
+        <members>CRMforNonProfit__MailParserUnicreditSKTest</members>
+        <members>CRMforNonProfit__MonetaAccounts</members>
+        <members>CRMforNonProfit__MonetaTransactions</members>
+        <members>CRMforNonProfit__OpravaDatTest</members>
+        <members>CRMforNonProfit__OpravaPledgeDarujme</members>
+        <members>CRMforNonProfit__OpravaPledgeUcet</members>
+        <members>CRMforNonProfit__OpravaTransakceDarujme</members>
+        <members>CRMforNonProfit__OpravaUctuTransakci</members>
+        <members>CRMforNonProfit__P7MTools</members>
+        <members>CRMforNonProfit__PDFGeneratorController</members>
+        <members>CRMforNonProfit__PDFGeneratorMock_Test</members>
+        <members>CRMforNonProfit__QueueableStack</members>
+        <members>CRMforNonProfit__RecurrentDonors</members>
+        <members>CRMforNonProfit__RetrieveEshopOrder</members>
+        <members>CRMforNonProfit__RetrieveShoptetOrder</members>
+        <members>CRMforNonProfit__RetryFailedGeorgeNotificationsBatch</members>
+        <members>CRMforNonProfit__RetryFailedGeorgeNotificationsBatchTest</members>
+        <members>CRMforNonProfit__ScheduledDispatcher</members>
+        <members>CRMforNonProfit__ScheduledDispatcherTest</members>
+        <members>CRMforNonProfit__ScheduledHelper</members>
+        <members>CRMforNonProfit__SelfServiceCertificateController</members>
+        <members>CRMforNonProfit__SelfServiceCertificateController_Test</members>
+        <members>CRMforNonProfit__SendEmailController_Test</members>
+        <members>CRMforNonProfit__SendEmailsController</members>
+        <members>CRMforNonProfit__ShoptetOrderDetailViaServ</members>
+        <members>CRMforNonProfit__ShoptetOrderDetailViaServTest</members>
+        <members>CRMforNonProfit__TestBatchAgregations</members>
+        <members>CRMforNonProfit__TestBatchAgregationsNoCompany</members>
+        <members>CRMforNonProfit__TestTriggers</members>
+        <members>CRMforNonProfit__Tools</members>
+        <members>CRMforNonProfit__TransactionAgregationBatch</members>
+        <members>CRMforNonProfit__TransactionAgregationBatchNoCompany</members>
+        <members>CRMforNonProfit__TransactionLoaderQueueable</members>
+        <members>CRMforNonProfit__TransactionLoaderQueueableTest</members>
+        <members>CRMforNonProfit__TransactionProcessor</members>
+        <members>CRMforNonProfit__TransactionProcessorTest</members>
+        <members>CRMforNonProfit__TransactionRecord</members>
+        <members>CRMforNonProfit__TransactionService</members>
+        <members>CRMforNonProfit__TransactionSynchronizerController</members>
+        <members>CRMforNonProfit__TransactionSynchronizerControllerTest</members>
+        <members>CRMforNonProfit__TransactionTestDarujme</members>
+        <members>CRMforNonProfit__UniCreditConnector</members>
+        <members>CRMforNonProfit__UniCreditHelper</members>
+        <members>CRMforNonProfit__UniCreditStatementMock</members>
+        <members>CRMforNonProfit__UniCreditSyncQueueable</members>
+        <members>CRMforNonProfit__UniCreditSyncScheduler</members>
+        <members>CRMforNonProfit__UniCreditSyncSchedulerTest</members>
+        <members>CRMforNonProfit__WebServiceMockImpl</members>
+        <members>CRMforNonProfit__WooCommerceOrderViaServ</members>
+        <members>CRMforNonProfit__WooCommerceOrderViaServTest</members>
+        <members>CRMforNonProfit__csasCzMci</members>
+        <members>CRMforNonProfit__javaCzCsasMciCblBomPub</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
+        <members>CommunitiesLandingController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>CommunitiesLoginControllerTest</members>
+        <members>CommunitiesSelfRegConfirmController</members>
+        <members>CommunitiesSelfRegConfirmControllerTest</members>
+        <members>CommunitiesSelfRegController</members>
+        <members>CommunitiesSelfRegControllerTest</members>
+        <members>Component4</members>
+        <members>ContactTriggerHandler</members>
+        <members>ContactTriggerHandlerTest</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>MicrobatchSelfRegController</members>
+        <members>MicrobatchSelfRegControllerTest</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
         <members>OuterClass</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>TaskUtil</members>
+        <members>TaskUtilTest</members>
+        <members>ca_collab_2_0__CommunitiesPackageInstall</members>
+        <members>ca_collab_2_0__CommunitiesPackageInstallTest</members>
+        <members>ch</members>
+        <members>check</members>
+        <members>is_crm__Attribute</members>
+        <members>is_crm__BaseEvent</members>
+        <members>is_crm__BasicHttpCalloutMock</members>
+        <members>is_crm__CatalogObjectEvent</members>
+        <members>is_crm__CustomEvent</members>
+        <members>is_crm__DataAutomationAction</members>
+        <members>is_crm__DataAutomationActionTest</members>
+        <members>is_crm__DataAutomationHttpService</members>
+        <members>is_crm__DataAutomationHttpServiceImpl</members>
+        <members>is_crm__DataAutomationServiceProvider</members>
+        <members>is_crm__Dataset</members>
+        <members>is_crm__DatasetAndDimensionPickList</members>
+        <members>is_crm__DatasetAndDimensionPickListTest</members>
+        <members>is_crm__DatasetSummary</members>
+        <members>is_crm__DatasetTest</members>
+        <members>is_crm__DateRange</members>
+        <members>is_crm__DateRangeTest</members>
+        <members>is_crm__EventStream</members>
+        <members>is_crm__EventStreamDeserializer</members>
+        <members>is_crm__IdentifierPickList</members>
+        <members>is_crm__IdentifierPickListTest</members>
+        <members>is_crm__IdentifierTypePickList</members>
+        <members>is_crm__IdentifierTypePickListTest</members>
+        <members>is_crm__IdentityType</members>
+        <members>is_crm__InteractionStudioDatasetPickList</members>
+        <members>is_crm__InteractionStudioDatasetPickListTest</members>
+        <members>is_crm__InteractionStudioService</members>
+        <members>is_crm__InteractionStudioServiceTest</members>
+        <members>is_crm__LookbackDaysPickList</members>
+        <members>is_crm__LookbackDaysPickListTest</members>
+        <members>is_crm__NamedCredential</members>
+        <members>is_crm__OrderEvent</members>
+        <members>is_crm__ProfileObjectConfig</members>
+        <members>is_crm__RecommendationRequest</members>
+        <members>is_crm__ShowByPickList</members>
+        <members>is_crm__ShowByPickListTest</members>
+        <members>is_crm__UnexpectedIsResponseException</members>
+        <members>is_crm__UserAffinityData</members>
+        <members>is_crm__ViewPageEvent</members>
+        <members>joshdaymentlabs__DataFetcherController</members>
+        <members>joshdaymentlabs__DataFetcherControllerTest</members>
+        <members>joshdaymentlabs__DataFetcherFieldSelectorController</members>
+        <members>joshdaymentlabs__DataFetcherObjectPickerController</members>
+        <members>joshdaymentlabs__TestDataFetcherFieldSelectorController</members>
+        <members>joshdaymentlabs__TestDataFetcherObjectPickerController</members>
+        <members>myHandler</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -2941,6 +3157,149 @@
     <types>
         <members>sf_com_apps</members>
         <name>InstalledPackage</name>
+    </types>
+    <types>
+        <members>Account-Account %28Marketing%29 Layout</members>
+        <members>Account-Account %28Sales%29 Layout</members>
+        <members>Account-Account %28Support%29 Layout</members>
+        <members>Account-Account Layout</members>
+        <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
+        <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
+        <members>AppointmentInvitation-Appointment Invitation Layout</members>
+        <members>Asset-Asset Layout</members>
+        <members>AssetAction-Asset Action Layout</members>
+        <members>AssetActionSource-Asset Action Source Layout</members>
+        <members>AssetRelationship-Asset Relationship Layout</members>
+        <members>AssetStatePeriod-Asset State Period Layout</members>
+        <members>AssignedResource-Assigned Resource Layout</members>
+        <members>AuthorizationForm-Authorization Form Layout</members>
+        <members>AuthorizationFormConsent-Authorization Form Consent Layout</members>
+        <members>AuthorizationFormDataUse-Authorization Form Data Use Layout</members>
+        <members>AuthorizationFormText-Authorization Form Text Layout</members>
+        <members>BusinessBrand-Business Brand Layout</members>
+        <members>Campaign-Campaign Layout</members>
+        <members>CampaignMember-Campaign Member Page Layout</members>
+        <members>CardPaymentMethod-Card Payment Method Layout</members>
+        <members>CartCheckoutSession-Cart Checkout Session Layout</members>
+        <members>CartDeliveryGroup-Cart Delivery Group Layout</members>
+        <members>CartDeliveryGroupMethod-Cart Delivery Group Method Layout</members>
+        <members>CartItem-Cart Item Layout</members>
+        <members>CartTax-Cart Tax Layout</members>
+        <members>CartValidationOutput-Cart Validation Output Layout</members>
+        <members>Case-Case %28Marketing%29 Layout</members>
+        <members>Case-Case %28Sales%29 Layout</members>
+        <members>Case-Case %28Support%29 Layout</members>
+        <members>Case-Case Layout</members>
+        <members>CaseClose-Close Case Layout</members>
+        <members>CaseMilestone-Case Milestone Layout</members>
+        <members>CommunityMemberLayout-Community Member Layout</members>
+        <members>ConsumptionRate-Consumption Rate Layout</members>
+        <members>ConsumptionSchedule-Consumption Schedule Layout</members>
+        <members>Contact-Contact %28Marketing%29 Layout</members>
+        <members>Contact-Contact %28Sales%29 Layout</members>
+        <members>Contact-Contact %28Support%29 Layout</members>
+        <members>Contact-Contact Layout</members>
+        <members>ContactPointAddress-Contact Point Address Layout</members>
+        <members>ContactPointEmail-Contact Point Email Layout</members>
+        <members>ContactPointPhone-Contact Point Phone Layout</members>
+        <members>ContactPointTypeConsent-Contact Point Type Consent Layout</members>
+        <members>ContentVersion-Content Version Layout</members>
+        <members>Contract-Contract Layout</members>
+        <members>ContractLineItem-Contract Line Item Layout</members>
+        <members>CredentialStuffingEventStore-Credential Stuffing Event Store Layout</members>
+        <members>CreditMemo-Credit Memo Layout</members>
+        <members>CreditMemoLine-Credit Memo Line Layout</members>
+        <members>Customer-Customer Layout</members>
+        <members>DandBCompany-D%26B Company Layout</members>
+        <members>DataUseLegalBasis-Data Use Legal Basis Layout</members>
+        <members>DataUsePurpose-Data Use Purpose Layout</members>
+        <members>DigitalWallet-Digital Wallet Layout</members>
+        <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
+        <members>EmailMessage-Email Message Layout</members>
+        <members>EngagementChannelType-Engagement Channel Type Layout</members>
+        <members>Entitlement-Entitlement Layout</members>
+        <members>EntityMilestone-Object Milestone Layout</members>
+        <members>Event-Event Layout</members>
+        <members>FeedItem-Feed Item Layout</members>
+        <members>FinanceBalanceSnapshot-Finance Balance Snapshot Layout</members>
+        <members>FinanceTransaction-Finance Transaction Layout</members>
+        <members>FulfillmentOrder-Fulfillment Order Layout</members>
+        <members>FulfillmentOrderItemAdjustment-Fulfillment Order Item Adjustment Layout</members>
+        <members>FulfillmentOrderItemTax-Fulfillment Order Item Tax Layout</members>
+        <members>FulfillmentOrderLineItem-Fulfillment Order Product Layout</members>
+        <members>Global-Global Layout</members>
+        <members>Idea-Idea Layout</members>
+        <members>Individual-Individual Layout</members>
+        <members>Invoice-Invoice Layout</members>
+        <members>InvoiceLine-Invoice Line Layout</members>
+        <members>Lead-Lead %28Marketing%29 Layout</members>
+        <members>Lead-Lead %28Sales%29 Layout</members>
+        <members>Lead-Lead %28Support%29 Layout</members>
+        <members>Lead-Lead Layout</members>
+        <members>LegalEntity-Legal Entity Layout</members>
+        <members>Macro-Macro Layout</members>
+        <members>OperatingHours-Operating Hours Layout</members>
+        <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
+        <members>Opportunity-Opportunity %28Sales%29 Layout</members>
+        <members>Opportunity-Opportunity %28Support%29 Layout</members>
+        <members>Opportunity-Opportunity Layout</members>
+        <members>OpportunityLineItem-Opportunity Product Layout</members>
+        <members>Order-Order Layout</members>
+        <members>OrderItem-Order Product Layout</members>
+        <members>Payment-Payment Layout</members>
+        <members>PaymentAuthAdjustment-Payment Authorization Adjustment Layout</members>
+        <members>PaymentAuthorization-Payment Authorization Layout</members>
+        <members>PaymentGateway-Payment Gateway Layout</members>
+        <members>PaymentGatewayLog-Payment Gateway Log Layout</members>
+        <members>PaymentGroup-Payment Group Layout</members>
+        <members>PaymentLineInvoice-Payment Line Invoice Layout</members>
+        <members>Pricebook2-Price Book Layout</members>
+        <members>PricebookEntry-Price Book Entry Layout</members>
+        <members>ProcessException-Process Exception Layout</members>
+        <members>Product2-Product Layout</members>
+        <members>ProductConsumptionSchedule-Product Consumption Schedule Layout</members>
+        <members>QuickText-Quick Text Layout</members>
+        <members>Refund-Refund Layout</members>
+        <members>RefundLinePayment-Refund Line Payment Layout</members>
+        <members>ReportAnomalyEventStore-Report Anomaly Event Store Layout</members>
+        <members>ResourceAbsence-Resource Absence Layout</members>
+        <members>ResourcePreference-Resource Preference Layout</members>
+        <members>ReturnOrder-Return Order Layout</members>
+        <members>ReturnOrderItemAdjustment-Return Order Item Adjustment Layout</members>
+        <members>ReturnOrderItemTax-Return Order Item Tax Layout</members>
+        <members>ReturnOrderLineItem-Return Order Line Item Layout</members>
+        <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardAssociation-Scorecard Association Layout</members>
+        <members>ScorecardMetric-Scorecard Metric Layout</members>
+        <members>Seller-Seller Layout</members>
+        <members>ServiceAppointment-Service Appointment Layout</members>
+        <members>ServiceContract-Service Contract Layout</members>
+        <members>ServiceResource-Service Resource Layout</members>
+        <members>ServiceResourceSkill-Service Resource Skill Layout</members>
+        <members>ServiceTerritory-Service Territory Layout</members>
+        <members>ServiceTerritoryMember-Service Territory Member Layout</members>
+        <members>SessionHijackingEventStore-Session Hijacking Event Store Layout</members>
+        <members>Shift-Shift Layout</members>
+        <members>SkillRequirement-Skill Requirement Layout</members>
+        <members>Solution-Solution Layout</members>
+        <members>Task-Task Layout</members>
+        <members>ThreatDetectionFeedback-Threat Detection Feedback Layout</members>
+        <members>TimeSlot-Time Slot Layout</members>
+        <members>User-User Layout</members>
+        <members>UserProvAccount-User Provisioning Account Layout</members>
+        <members>UserProvisioningLog-User Provisioning Log Layout</members>
+        <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>Waitlist-%5F%5FMISSING LABEL%5F%5F PropertyFile - val Waitlist not found in section StandardLayouts</members>
+        <members>WebCart-Cart Layout</members>
+        <members>WebCartAdjustmentBasis-Cart Adjustment Basis Layout</members>
+        <members>WebCartAdjustmentGroup-Cart Adjustment Group Layout</members>
+        <members>WebStore-Store Layout</members>
+        <members>WorkOrder-Work Order Layout</members>
+        <members>WorkOrderLineItem-Work Order Line Item Layout</members>
+        <members>WorkType-Work Type Layout</members>
+        <members>WorkTypeGroup-Work Type Group Layout</members>
+        <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <name>Layout</name>
     </types>
     <types>
         <members>Account.AllAccounts</members>
