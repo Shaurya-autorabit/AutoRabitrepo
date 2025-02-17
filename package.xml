@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>61.0</version>
+    <version>62.0</version>
     <types>
         <members>A0</members>
         <members>A00</members>
@@ -2840,6 +2840,94 @@
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>DOZISF__JWT_Setting.DOZISF__zi_auth</members>
+        <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioAlternativeAnswer</members>
+        <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioLibrarySyncRequestAnswer</members>
+        <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioProjectQuestionAnswer</members>
+        <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioResponseAnswer</members>
+        <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioResponseVersionAnswer</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__AllowAssigneetoComplete</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__AllowReviewertoComplete</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__AllowReviewertoEdit</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__AnsweredStatus</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__AutoSubmitForReviewCycle</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__AvailableProjectQuestionReviewTypes</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__CategoryStrictFilter</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__EnableAiQuestionSuggestions</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__EnableLibraryReIndexing</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__EnableOutOfCycleReview</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__EnableProjectQuestionReview</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__HideWelcomeMat</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__LibraryDeleteBatchSize</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__LibraryExcelImportVersion</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__LibraryPublishBatchSize</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__LibrarySearchPrefixPattern</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__LibraryWordImportVersion</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__NotificationOrgWideEmailAddressName</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ProjectConfigureExcelImportVersion</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ProjectConfigureWordImportVersion</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ProjectOwnerasAssignee</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ProjectOwnerasReviewer</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ProjectQuestionReviewType</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ProjectReviewStatus</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__PublishLibraryCustomPermissionName</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ReadOnlyCompletedQuestion</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ResponseCustomActionClass</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ResponseVersionNumberPrefix</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__ReviewLibrarySyncFilters</members>
+        <members>avnio__AvnioRFxConfiguration.avnio__VisibleToAssistant</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultMaxNewTokensForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultMaxNewTokensForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultMaxResponseLengthAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultMaxResponseLengthForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultRandomnessForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultRandomnessForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultTopKForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultTopKForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultTopPForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DefaultTopPForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__DisableAILogging</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__EnableSmartComponseAutoCompleteInPQ</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__EnableSmartComponseDraftInPQ</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__EndSequenceForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__EndSequenceForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__LibrarySearchScoreThreshold</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__NumSequencesForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__NumSequencesForDraft</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__RepetitionPenaltyForAutoComplete</members>
+        <members>avnio__AvnioRFxSmartCompose.avnio__RepetitionPenaltyForDraft</members>
+        <members>avnio__AvnioRFxSpellChecker.avnio__EnableSpellChecker</members>
+        <members>avnio__FolderConfiguration.avnio__Project_Draft</members>
+        <members>avnio__FolderConfiguration.avnio__Project_Exhibits</members>
+        <members>avnio__FolderConfiguration.avnio__Project_File_Upload</members>
+        <members>avnio__FolderConfiguration.avnio__Project_Generate</members>
+        <members>avnio__NotificationChannel.avnio__Email</members>
+        <members>avnio__NotificationChannel.avnio__LightningNotification</members>
+        <members>avnio__NotificationFlow.avnio__ProjectQuestionAssignment</members>
+        <members>avnio__NotificationFlow.avnio__ProjectQuestionAssignmentReminder</members>
+        <members>avnio__NotificationFlow.avnio__ProjectQuestionAutoRetrieveAnswers</members>
+        <members>avnio__NotificationFlow.avnio__ProjectQuestionReviewerAssignment</members>
+        <members>avnio__NotificationFlow.avnio__ProjectQuestionReviewerReminder</members>
+        <members>avnio__NotificationFlow.avnio__ResponseReindexComplete</members>
+        <members>avnio__NotificationFlow.avnio__ResponseReviewAssignment</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueAssigneeReminderEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueAssigneeReminderLightning</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueAssignmentEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueAssignmentLightning</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueAutoRetrieveEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueAutoRetrieveLightning</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueReviewReminderEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueReviewReminderLightning</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueReviewerEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ProjectQueReviewerLightning</members>
+        <members>avnio__NotificationFlowChannel.avnio__ResponseReindexCompletionEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ResponseReindexCompletionNotification</members>
+        <members>avnio__NotificationFlowChannel.avnio__ResponseReviewAssignmentEmail</members>
+        <members>avnio__NotificationFlowChannel.avnio__ResponseReviewAssignmentLightning</members>
+        <members>avnio__ObjectConfiguration.avnio__Project_c</members>
+        <name>CustomMetadata</name>
     </types>
     <types>
         <members>Account</members>
