@@ -227,7 +227,7 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
-    <externalSharingModel>ReadWrite</externalSharingModel>
+    <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>AccountNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
@@ -536,6 +536,38 @@
         <filterScope>Everything</filterScope>
         <label>Platinum and Gold SLA Customers</label>
     </listViews>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS1_STATE_CODE</fields>
+        <profileName>Analytics Cloud Integration User</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS1_CITY</fields>
+        <profileName>Analytics Cloud Security User</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS2_STREET</fields>
+        <profileName>Anypoint Integration</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS2_STATE_CODE</fields>
+        <profileName>Authenticated Website</profileName>
+    </profileSearchLayouts>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
