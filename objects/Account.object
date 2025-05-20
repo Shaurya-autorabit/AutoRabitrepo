@@ -578,12 +578,6 @@
         <fields>ACCOUNT.TIER</fields>
         <fields>Active__c</fields>
         <fields>CustomerPriority__c</fields>
-        <fields>NumberofLocations__c</fields>
-        <fields>SLA__c</fields>
-        <fields>SLAExpirationDate__c</fields>
-        <fields>SLASerialNumber__c</fields>
-        <fields>UpsellOpportunity__c</fields>
-        <fields>SOCIAL_PERSONA_FACEBOOK</fields>
         <profileName>B2B Reordering Portal Buyer Profile</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
