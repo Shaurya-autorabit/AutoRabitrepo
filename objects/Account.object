@@ -576,7 +576,6 @@
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
-        <fields>CORE.USERS.ALIAS</fields>
         <profileName>B2B Reordering Portal Buyer Profile</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
