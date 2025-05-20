@@ -564,9 +564,6 @@
         <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
-        <fields>CORE.USERS.ALIAS</fields>
-        <fields>ACCOUNT.ADDRESS2_STREET</fields>
-        <fields>ACCOUNT.ADDRESS1_COUNTRY_CODE</fields>
         <profileName>Authenticated Website</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
