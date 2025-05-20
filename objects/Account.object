@@ -569,7 +569,6 @@
         <profileName>Authenticated Website</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
-        <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
@@ -579,7 +578,6 @@
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.SITE</fields>
-        <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS1_ZIP</fields>
         <profileName>Chatter External User</profileName>
@@ -588,7 +586,6 @@
         <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
-        <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS1_COUNTRY_CODE</fields>
         <profileName>Chatter Free User</profileName>
     </profileSearchLayouts>
