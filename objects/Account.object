@@ -542,9 +542,11 @@
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS2_STREET</fields>
-        <fields>NumberofLocations__c</fields>
+        <fields>UpsellOpportunity__c</fields>
         <fields>SLA__c</fields>
         <fields>SLAExpirationDate__c</fields>
+        <fields>SLASerialNumber__c</fields>
+        <fields>SOCIAL_PERSONA_FACEBOOK</fields>
         <profileName>Analytics Cloud Integration User</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
@@ -576,6 +578,15 @@
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.TIER</fields>
+        <fields>Active__c</fields>
+        <fields>CustomerPriority__c</fields>
+        <fields>NumberofLocations__c</fields>
+        <fields>SLA__c</fields>
+        <fields>SLAExpirationDate__c</fields>
+        <fields>SLASerialNumber__c</fields>
+        <fields>UpsellOpportunity__c</fields>
+        <fields>SOCIAL_PERSONA_FACEBOOK</fields>
         <profileName>B2B Reordering Portal Buyer Profile</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
@@ -589,7 +600,12 @@
         <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
-        <fields>ACCOUNT.ADDRESS1_COUNTRY_CODE</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS2_STREET</fields>
+        <fields>DANDB_COMPANY</fields>
+        <fields>OperatingHours</fields>
+        <fields>JIGSAW_KEY</fields>
+        <fields>ACCOUNT.SIC</fields>
         <profileName>Chatter Free User</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
