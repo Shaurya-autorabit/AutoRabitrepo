@@ -541,7 +541,10 @@
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
-        <fields>ACCOUNT.ADDRESS1_STATE_CODE</fields>
+        <fields>ACCOUNT.ADDRESS2_STREET</fields>
+        <fields>NumberofLocations__c</fields>
+        <fields>SLA__c</fields>
+        <fields>SLAExpirationDate__c</fields>
         <profileName>Analytics Cloud Integration User</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
