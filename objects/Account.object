@@ -564,6 +564,7 @@
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS2_STREET</fields>
@@ -603,6 +604,19 @@
         <fields>JIGSAW_KEY</fields>
         <fields>ACCOUNT.SIC</fields>
         <profileName>Chatter Free User</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>NumberofLocations__c</fields>
+        <fields>SLA__c</fields>
+        <fields>SLAExpirationDate__c</fields>
+        <fields>SLASerialNumber__c</fields>
+        <fields>UpsellOpportunity__c</fields>
+        <fields>SOCIAL_PERSONA_FACEBOOK</fields>
+        <fields>UPDATEDBY_USER.ALIAS</fields>
+        <fields>UPDATEDBY_USER.NAME</fields>
+        <profileName>Chatter Moderator User</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
