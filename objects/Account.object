@@ -573,6 +573,30 @@
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS1_ZIP</fields>
+        <profileName>B2B Reordering Portal Buyer Profile</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS1_ZIP</fields>
+        <profileName>Chatter External User</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ADDRESS1_COUNTRY_CODE</fields>
+        <profileName>Chatter Free User</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>ACCOUNT.PHONE1</fields>
+        <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS2_STATE_CODE</fields>
         <profileName>Standard Platform User</profileName>
     </profileSearchLayouts>
@@ -593,6 +617,7 @@
         <profileName>System Administrator</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
+        <fields>ACCOUNT.NAME</fields>
         <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
