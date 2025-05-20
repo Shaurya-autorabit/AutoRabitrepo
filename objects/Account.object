@@ -574,12 +574,6 @@
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
         <fields>CORE.USERS.ALIAS</fields>
-        <fields>ACCOUNT.ADDRESS2_STREET</fields>
-        <fields>ACCOUNT.ADDRESS2_STATE_CODE</fields>
-        <fields>ACCOUNT.ADDRESS1_ZIP</fields>
-        <fields>ACCOUNT.ADDRESS1_COUNTRY</fields>
-        <fields>ACCOUNT.ADDRESS2_COUNTRY_CODE</fields>
-        <fields>ACCOUNT.ADDRESS2_COUNTRY</fields>
         <profileName>B2B Reordering Portal Buyer Profile</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
