@@ -544,9 +544,6 @@
         <fields>ACCOUNT.ADDRESS2_STREET</fields>
         <fields>UpsellOpportunity__c</fields>
         <fields>SLA__c</fields>
-        <fields>SLAExpirationDate__c</fields>
-        <fields>SLASerialNumber__c</fields>
-        <fields>SOCIAL_PERSONA_FACEBOOK</fields>
         <profileName>Analytics Cloud Integration User</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
@@ -567,7 +564,6 @@
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
-        <fields>ACCOUNT.SITE</fields>
         <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS2_STREET</fields>
