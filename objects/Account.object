@@ -571,8 +571,6 @@
     </profileSearchLayouts>
     <profileSearchLayouts>
         <fields>ACCOUNT.NAME</fields>
-        <fields>ACCOUNT.SITE</fields>
-        <fields>ACCOUNT.PHONE1</fields>
         <fields>CORE.USERS.ALIAS</fields>
         <fields>ACCOUNT.ADDRESS2_STREET</fields>
         <fields>ACCOUNT.ADDRESS2_STATE_CODE</fields>
