@@ -588,14 +588,6 @@
         <profileName>Chatter External User</profileName>
     </profileSearchLayouts>
     <profileSearchLayouts>
-        <fields>ACCOUNT.NAME</fields>
-        <fields>ACCOUNT.SITE</fields>
-        <fields>ACCOUNT.PHONE1</fields>
-        <fields>CORE.USERS.ALIAS</fields>
-        <fields>ACCOUNT.ADDRESS2_STREET</fields>
-        <fields>DANDB_COMPANY</fields>
-        <fields>OperatingHours</fields>
-        <fields>JIGSAW_KEY</fields>
         <fields>ACCOUNT.SIC</fields>
         <profileName>Chatter Free User</profileName>
     </profileSearchLayouts>
