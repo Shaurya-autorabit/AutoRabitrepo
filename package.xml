@@ -168,6 +168,7 @@
         <members>OuterClass</members>
         <members>ReportMGRLight__ReportDashboardController</members>
         <members>ReportMGRLight__ReportDashboardControllerTest</members>
+        <members>ReportMGRLight__ReportManagerBatch</members>
         <members>SiteLoginController</members>
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
