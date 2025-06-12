@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>62.0</version>
+    <version>63.0</version>
     <types>
         <members>A0</members>
         <members>A00</members>
@@ -166,6 +166,8 @@
         <members>MyProfilePageController</members>
         <members>MyProfilePageControllerTest</members>
         <members>OuterClass</members>
+        <members>ReportMGRLight__ReportDashboardController</members>
+        <members>ReportMGRLight__ReportDashboardControllerTest</members>
         <members>SiteLoginController</members>
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
