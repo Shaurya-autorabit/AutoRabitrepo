@@ -4,6 +4,7 @@
         <members>A0</members>
         <members>A00</members>
         <members>A000</members>
+        <members>A0000</members>
         <members>A00000AYaNZY</members>
         <members>A00000BHhYOBPn</members>
         <members>A00000CFvTUn</members>
@@ -166,12 +167,13 @@
         <members>MyProfilePageController</members>
         <members>MyProfilePageControllerTest</members>
         <members>OuterClass</members>
-        <members>ReportMGRLight__ArchiveReportsExcelController</members>
         <members>ReportMGRLight__ArchiveReportsExcelControllerTest</members>
         <members>ReportMGRLight__DeleteArchivedReportsBatch</members>
         <members>ReportMGRLight__DeleteEmptyFoldersBatch</members>
         <members>ReportMGRLight__ReportDashboardController</members>
         <members>ReportMGRLight__ReportDashboardControllerTest</members>
+        <members>ReportMGRLight__Utility</members>
+        <members>ReportMGRLight__UtilityTest</members>
         <members>SiteLoginController</members>
         <members>SiteLoginControllerTest</members>
         <members>SiteRegisterController</members>
