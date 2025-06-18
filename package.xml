@@ -3575,6 +3575,7 @@
         <name>NotificationTypeConfig</name>
     </types>
     <types>
+        <members>DataStream</members>
         <members>Experience_Profile_Manager</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
         <name>PermissionSet</name>
