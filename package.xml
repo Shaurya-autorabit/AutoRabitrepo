@@ -295,19 +295,36 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>AYObj1__c.AYFeidl2__c</members>
+        <members>AYObj1__c.AYField1__c</members>
+        <members>Account.AccountLookUpField__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
+        <members>Account.ChannelProgramLevelName</members>
+        <members>Account.ChannelProgramName</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.Customer_Code__c</members>
         <members>Account.DandbCompanyId</members>
+        <members>Account.Date_of_End__c</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
+        <members>Account.GB__c</members>
+        <members>Account.GIRI_PS_F1__c</members>
+        <members>Account.GIRI_PS_ON_ACCOUNT__c</members>
+        <members>Account.Index__c</members>
         <members>Account.Industry</members>
+        <members>Account.IsCustomerPortal</members>
+        <members>Account.IsExcludedFromRealign</members>
+        <members>Account.IsPartner</members>
+        <members>Account.Is_an_email_sent__c</members>
         <members>Account.Jigsaw</members>
+        <members>Account.MyCoolCheckBox__c</members>
         <members>Account.NaicsCode</members>
         <members>Account.NaicsDesc</members>
         <members>Account.Name</members>
@@ -328,13 +345,33 @@
         <members>Account.Site</members>
         <members>Account.TickerSymbol</members>
         <members>Account.Tier</members>
+        <members>Account.TmobileEmailAddress__c</members>
         <members>Account.Tradestyle</members>
         <members>Account.Type</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
+        <members>Account.f1__c</members>
+        <members>Account.pick1__c</members>
+        <members>Account.rh2__Describe__c</members>
+        <members>Account.rh2__testCurrency__c</members>
+        <members>AccountBrand.AccountId</members>
+        <members>AccountBrand.CompanyName</members>
+        <members>AccountBrand.Email</members>
+        <members>AccountBrand.LogoId</members>
+        <members>AccountBrand.Name</members>
+        <members>AccountBrand.OwnerId</members>
+        <members>AccountBrand.Phone</members>
+        <members>AccountBrand.Website</members>
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
+        <members>AccountContactRelation.AccountId</members>
+        <members>AccountContactRelation.ContactId</members>
+        <members>AccountContactRelation.EndDate</members>
+        <members>AccountContactRelation.IsActive</members>
+        <members>AccountContactRelation.IsDirect</members>
+        <members>AccountContactRelation.Roles</members>
+        <members>AccountContactRelation.StartDate</members>
         <members>AccountContactRole.Role</members>
         <members>Address.AddressType</members>
         <members>Address.Description</members>
@@ -2938,8 +2975,11 @@
         <name>CustomMetadata</name>
     </types>
     <types>
+        <members>AYObj1__c</members>
         <members>Account</members>
+        <members>AccountBrand</members>
         <members>AccountCleanInfo</members>
+        <members>AccountContactRelation</members>
         <members>AccountContactRole</members>
         <members>Activity</members>
         <members>Address</members>
@@ -3403,6 +3443,11 @@
         <members>Account.NewLastWeek</members>
         <members>Account.NewThisWeek</members>
         <members>Account.PlatinumandGoldSLACustomers</members>
+        <members>Account.X223Listview</members>
+        <members>Account.kcs_dev__AllAccounts</members>
+        <members>Account.kcs_dev__MyAccounts</members>
+        <members>Account.kcs_dev__NewThisWeek</members>
+        <members>AccountBrand.All_Account_Brands</members>
         <members>Activity.AllActivities</members>
         <members>Activity.MyActivities</members>
         <members>Activity.TodaysTasks</members>
@@ -3658,6 +3703,8 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Account.ARC1</members>
+        <members>Account.TestVisible</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
@@ -4074,7 +4121,20 @@
         <name>TopicsForObjects</name>
     </types>
     <types>
+        <members>Account.Account_Name_Blank</members>
+        <members>Account.Account_Number_Numeric</members>
+        <members>Account.V1</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
+        <members>Account.customlink1</members>
+        <members>Account.kcs_dev__AltavistaNews</members>
+        <members>Account.kcs_dev__GoogleMaps</members>
+        <members>Account.kcs_dev__GoogleNews</members>
+        <members>Account.kcs_dev__GoogleSearch</members>
+        <members>Account.kcs_dev__HooversProfile</members>
+        <members>Account.kcs_dev__YahooMaps</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
