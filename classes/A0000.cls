@@ -1,6 +1,6 @@
 public class A0000{
 
-Account aaaaaaaaaaqqqq = new Account();
+Account aa = new Account();
 Contact a = new Contact();
 //l
 //Nov 09 commitfffff
