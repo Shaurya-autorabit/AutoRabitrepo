@@ -3,7 +3,6 @@
     <types>
         <members>A0</members>
         <members>A00</members>
-        <members>A000</members>
         <members>A0000</members>
         <members>A00000AYaNZY</members>
         <members>A00000BHhYOBPn</members>
@@ -3575,8 +3574,18 @@
         <name>NotificationTypeConfig</name>
     </types>
     <types>
+        <members>Bhanu_New_PS</members>
         <members>DataStream</members>
+        <members>DellPermissionSet</members>
+        <members>Document_Test</members>
         <members>Experience_Profile_Manager</members>
+        <members>GIRI_ACTIVITY_TRY</members>
+        <members>GIRI_PS</members>
+        <members>KM1</members>
+        <members>PRsham01Set</members>
+        <members>TestPermission</members>
+        <members>analyticsengine__Super_Admin</members>
+        <members>feb8th</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
         <name>PermissionSet</name>
     </types>
