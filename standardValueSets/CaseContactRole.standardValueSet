@@ -21,4 +21,14 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
+    <standardValue>
+        <fullName>Role1</fullName>
+        <default>false</default>
+        <label>Role1</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Role2</fullName>
+        <default>false</default>
+        <label>Role2</label>
+    </standardValue>
 </StandardValueSet>

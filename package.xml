@@ -2887,7 +2887,11 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Aug22test.rc1</members>
+        <members>CTobj.Rc1</members>
         <members>DOZISF__JWT_Setting.DOZISF__zi_auth</members>
+        <members>Saitest.Test</members>
+        <members>Test12.RC1</members>
         <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioAlternativeAnswer</members>
         <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioLibrarySyncRequestAnswer</members>
         <members>avnio__AdvancedFieldHistorySetting.avnio__AvnioProjectQuestionAnswer</members>
@@ -2972,6 +2976,32 @@
         <members>avnio__NotificationFlowChannel.avnio__ResponseReviewAssignmentEmail</members>
         <members>avnio__NotificationFlowChannel.avnio__ResponseReviewAssignmentLightning</members>
         <members>avnio__ObjectConfiguration.avnio__Project_c</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Average_Deal_Size</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Campaign_Revenue</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Child_to_Parent_Account_Names</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_First_Campaign_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_First_Opportunity_Close_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_First_Task_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Largest_Won_Opportunity_Amount</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Most_Recent_Call_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Most_Recent_Campaign_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Most_Recent_Email_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Most_Recent_Note_on_Account</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Most_Recent_Opp_Close_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Most_Recent_Task_Date</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Calls</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Cases</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Contacts</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Contacts_without_Email</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Emails</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Lost_Opportunities</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Open_Cases</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Won_Opportunities</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Number_of_Won_Opps_in_Campaign</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Total_Amount_in_Pipeline</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Total_Closed_Lost_Opportunity_Sum</members>
+        <members>rh2__PS_Use_Case_Library.rh2__rhuc_Total_Closed_Won_Opportunity_Sum</members>
+        <members>webs.Web1</members>
         <name>CustomMetadata</name>
     </types>
     <types>
@@ -4016,10 +4046,12 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>AccountContactMultiRoles</members>
         <members>AccountContactRole</members>
         <members>AccountOwnership</members>
         <members>AccountRating</members>
         <members>AccountType</members>
+        <members>AssetRelationshipType</members>
         <members>AssetStatus</members>
         <members>CampaignMemberStatus</members>
         <members>CampaignStatus</members>
@@ -4047,6 +4079,7 @@
         <members>Industry</members>
         <members>LeadSource</members>
         <members>LeadStatus</members>
+        <members>MilitaryService</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityStage</members>
         <members>OpportunityType</members>
@@ -4058,6 +4091,7 @@
         <members>ProcessExceptionSeverity</members>
         <members>ProcessExceptionStatus</members>
         <members>Product2Family</members>
+        <members>QuantityUnitOfMeasure</members>
         <members>QuickTextCategory</members>
         <members>QuickTextChannel</members>
         <members>ResourceAbsenceType</members>
@@ -4067,15 +4101,18 @@
         <members>ReturnOrderLineItemRepaymentMethod</members>
         <members>ReturnOrderShipmentType</members>
         <members>ReturnOrderStatus</members>
+        <members>RoleInTerritory2</members>
         <members>Salutation</members>
         <members>ServTerrMemRoleType</members>
         <members>ServiceAppointmentStatus</members>
         <members>ServiceContractApprovalStatus</members>
         <members>SolutionStatus</members>
+        <members>StatusReason</members>
         <members>TaskPriority</members>
         <members>TaskStatus</members>
         <members>TaskSubject</members>
         <members>TaskType</members>
+        <members>UnitOfMeasure</members>
         <members>WorkOrderLineItemStatus</members>
         <members>WorkOrderPriority</members>
         <members>WorkOrderStatus</members>

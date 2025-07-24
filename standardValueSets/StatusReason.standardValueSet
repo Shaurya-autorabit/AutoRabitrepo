@@ -2,33 +2,33 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Email</fullName>
-        <default>true</default>
-        <label>Email</label>
+        <fullName>Online</fullName>
+        <default>false</default>
+        <label>Online</label>
     </standardValue>
     <standardValue>
-        <fullName>Portal</fullName>
+        <fullName>Paused</fullName>
         <default>false</default>
-        <label>Portal</label>
+        <label>Paused</label>
     </standardValue>
     <standardValue>
-        <fullName>Phone</fullName>
+        <fullName>Standby</fullName>
         <default>false</default>
-        <label>Phone</label>
+        <label>Standby</label>
     </standardValue>
     <standardValue>
-        <fullName>Internal</fullName>
+        <fullName>Offline</fullName>
         <default>false</default>
-        <label>Internal</label>
+        <label>Offline</label>
     </standardValue>
     <standardValue>
-        <fullName>Event</fullName>
+        <fullName>Not Ready</fullName>
         <default>false</default>
-        <label>Event</label>
+        <label>Not Ready</label>
     </standardValue>
     <standardValue>
-        <fullName>Task</fullName>
+        <fullName>Off</fullName>
         <default>false</default>
-        <label>Task</label>
+        <label>Off</label>
     </standardValue>
 </StandardValueSet>
