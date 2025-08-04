@@ -9,6 +9,7 @@
         <members>A00000BHhYOBPn</members>
         <members>A00000CFvTUn</members>
         <members>AccountTriggerHandler</members>
+        <members>AgentforceHomepageController</members>
         <members>AutocreatedTokenExchHandler1731318208120</members>
         <members>CRMforNonProfit__AccountCampaignAgregationBatch</members>
         <members>CRMforNonProfit__AccountTransactionAgregationBatch</members>
@@ -295,8 +296,6 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>AYObj1__c.AYFeidl2__c</members>
-        <members>AYObj1__c.AYField1__c</members>
         <members>Account.AccountLookUpField__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
@@ -308,8 +307,6 @@
         <members>Account.ChannelProgramName</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
-        <members>Account.Customer_Code__c</members>
-        <members>Account.DandbCompanyId</members>
         <members>Account.Date_of_End__c</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
@@ -4180,5 +4177,9 @@
     <types>
         <members>Case.ChangePriorityToHigh</members>
         <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Account.Rule1</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
