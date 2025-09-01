@@ -16,6 +16,7 @@
         <members>Apr001Test1</members>
         <members>Apr001Test1testclass</members>
         <members>Apr002Test1</members>
+        <members>Apr002Test1testclass</members>
         <members>AutocreatedTokenExchHandler1731318208120</members>
         <members>CRMforNonProfit__AccountCampaignAgregationBatch</members>
         <members>CRMforNonProfit__AccountTransactionAgregationBatch</members>
@@ -173,6 +174,8 @@
         <members>MicrobatchSelfRegControllerTest</members>
         <members>MyProfilePageController</members>
         <members>MyProfilePageControllerTest</members>
+        <members>MyRestResource</members>
+        <members>OpportunityManager</members>
         <members>OuterClass</members>
         <members>ReportMGRLight__ArchiveReportsExcelControllerTest</members>
         <members>ReportMGRLight__DeleteArchivedReportsBatch</members>
