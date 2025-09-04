@@ -17,7 +17,7 @@
     <actionOverrides>
         <actionName>Clone</actionName>
         <type>Default</type>
-    </actionOverrides>
+    
     <actionOverrides>
         <actionName>Clone</actionName>
         <formFactor>Large</formFactor>
@@ -149,7 +149,7 @@
     </fields>
     <fields>
         <fullName>TimeZone</fullName>
-    </fields>
+    
     <searchLayouts>
         <customTabListAdditionalFields>AddressType</customTabListAdditionalFields>
         <customTabListAdditionalFields>Parent</customTabListAdditionalFields>
